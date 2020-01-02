@@ -4,3 +4,9 @@ C:\Users\dp056738\source\repos\ConsoleCSharp\bin\Debug\ConsoleCSharp.pdb
 C:\Users\dp056738\source\repos\ConsoleCSharp\obj\Debug\ConsoleCSharp.csprojAssemblyReference.cache
 C:\Users\dp056738\source\repos\ConsoleCSharp\obj\Debug\ConsoleCSharp.exe
 C:\Users\dp056738\source\repos\ConsoleCSharp\obj\Debug\ConsoleCSharp.pdb
+C:\Users\dp056738\Desktop\dotnetapps\ConsoleCalculatorCSharp\bin\Debug\ConsoleCSharp.exe.config
+C:\Users\dp056738\Desktop\dotnetapps\ConsoleCalculatorCSharp\bin\Debug\ConsoleCSharp.exe
+C:\Users\dp056738\Desktop\dotnetapps\ConsoleCalculatorCSharp\bin\Debug\ConsoleCSharp.pdb
+C:\Users\dp056738\Desktop\dotnetapps\ConsoleCalculatorCSharp\obj\Debug\ConsoleCSharp.csprojAssemblyReference.cache
+C:\Users\dp056738\Desktop\dotnetapps\ConsoleCalculatorCSharp\obj\Debug\ConsoleCSharp.exe
+C:\Users\dp056738\Desktop\dotnetapps\ConsoleCalculatorCSharp\obj\Debug\ConsoleCSharp.pdb

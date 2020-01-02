@@ -1,2 +1,5 @@
 # .NET-Applications
-Contains basic applications in .net framework
+Contains a few basic applications in .NET framework
+
+IDE - Visual Studio 2019
+
